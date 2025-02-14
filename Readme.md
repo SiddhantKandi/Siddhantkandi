@@ -5,7 +5,7 @@
 ## **Full Stack Developer**
 
 # 💫 About Me:
-👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>🎓 Final Year Computer Science student studying at Vishwakarma Institute of Information Technology, Pune, India<br>🎨 Reading books on Computer Science, building exciting projects, and playing Chess<br>💭 Currently learning DevOps
+👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>🎓 Final Year Computer Science student studying at Vishwakarma Institute of Information Technology, Pune, India<br>🎨 Reading books on Computer Science, building exciting projects, and playing Chess<br>💭 Currently learning Redux Toolkit
 
 
 ## 🌐 Socials:
