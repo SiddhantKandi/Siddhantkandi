@@ -5,7 +5,7 @@
 ## **Full Stack Developer**
 
 # 💫 About Me:
-👨‍💻 Software Engineer sharing about my journey and learnings in Tech<br>🎓 Graduate Computer Science student at Vishwakarma Institute of Information Technology, Pune, India<br>🎨 Reading books on Computer Science, building exciting projects, and playing Chess<br>💭 Currently learning GoLang and building Gophercises
+👨‍💻 Software Engineer sharing about my journey and learnings in Tech<br>🎓 Graduate Computer Science student at Vishwakarma Institute of Information Technology, Pune, India<br>🎨 Reading books on Computer Science, building exciting projects, and playing Chess<br>💭 Currently learning GoLang and building and solving Gophercises
 
 
 ## 🌐 Socials:
