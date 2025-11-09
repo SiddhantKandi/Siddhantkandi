@@ -33,6 +33,9 @@
 
 [![Top Langs](https://github-readme-stats-siddhant.vercel.app/api/top-langs/?username=SiddhantKandi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddhantKandi&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+
 
 
 
