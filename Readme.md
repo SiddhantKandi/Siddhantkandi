@@ -7,7 +7,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer focusing on Product Engineering working at Cognologix Technology 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**,**.go**, **.java**, **.yaml**,  **.sql**,
+- 💻 I use daily: **.js**,**.ts**,**.go**, **.java**, **.yaml**,  **.sql**,
 - 📖 I am currently reading **Cosmos** by Carl Sagan
 - 💬 Talk to me about Deployment, Monitoring, Cloud Native, Chess, F1
 - 👯 We can connect to play some games of Chess ♟
